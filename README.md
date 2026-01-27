@@ -1,5 +1,7 @@
 I have no idea what I'm doing 🙈
 
+Really, though, I've recently started trying to use gen-ai to create a "diglot weave". 
+Got a couple more ideas I might try soon...
 <!--
 **Sasha-Str/Sasha-Str** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
