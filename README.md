@@ -1,7 +1,11 @@
 I have no idea what I'm doing 🙈
 
-In any case, I've recently started trying to use gen-ai to create a "diglot weave". 
-I've also built a simple neural network that tries to predict returns on the stock market. I've done it mostly to learn how the process works, but the testing looks decent so if it performs well I might even use it.
+And yet, 
+
+- I've recently started trying to use gen-ai to create a "diglot weave". 
+- I've also built a simple neural network that tries to predict returns on the stock market. I've done it mostly to learn how the process works, but the testing looks decent so if it performs well I might even use it.
+- I've uploaded my Master's Thesis
+- I've uploaded a project from my time at uni (my only formal introduction to Python)
 
 Got a couple more ideas I might try soon...
 <!--
