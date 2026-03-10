@@ -1,6 +1,8 @@
 I have no idea what I'm doing 🙈
 
-Really, though, I've recently started trying to use gen-ai to create a "diglot weave". 
+In any case, I've recently started trying to use gen-ai to create a "diglot weave". 
+I've also built a simple neural network that tries to predict returns on the stock market. I've done it mostly to learn how the process works, but the testing looks decent so if it performs well I might even use it.
+
 Got a couple more ideas I might try soon...
 <!--
 **Sasha-Str/Sasha-Str** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
